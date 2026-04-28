@@ -1,0 +1,16 @@
+# Python virtual environment
+expense-tracker/.venv/
+
+# Local Google API credentials and tokens
+expense-tracker/credentials.json
+expense-tracker/token.json
+
+# Local workspace/private files
+.private/
+
+# Generated files
+expense-tracker/dashboard.html
+expense-tracker/expenses.db
+
+# macOS
+.DS_Store
