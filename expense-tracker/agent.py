@@ -43,7 +43,7 @@ SHEET_NAME = "Expenses"
 # Add or remove queries to match your banks / payment apps
 SEARCH_QUERIES = [
 
-    "from:alerts@axis.bank.in",
+    "from:alerts@axis.bank.com",
 ]
 
 CATEGORIES = [
